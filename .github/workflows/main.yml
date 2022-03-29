@@ -71,4 +71,4 @@ jobs:
           plugin_topics_sort: stars
           plugin_wakatime: yes
           plugin_wakatime_token: 42b59e2a-a577-4b8f-a604-52fe4acb3a97
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
