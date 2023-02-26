@@ -16,7 +16,7 @@ jobs:
 
           # Options
           user: unclesp1d3r
-          template: classic
+          template: markdown
           base: header, activity, community, repositories, metadata
           config_display: large
           config_timezone: America/New_York
@@ -72,5 +72,7 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_sort: stars
           plugin_wakatime: yes
-          plugin_wakatime_token: 42b59e2a-a577-4b8f-a604-52fe4acb3a97
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os, os-graphs
+          plugin_rss: yes
+          plugin_rss_source: https://unclesp1d3r.github.io/feed.xml
