@@ -79,4 +79,4 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os, os-graphs
           plugin_rss: yes
-          plugin_rss_source: https://unclesp1d3r.github.io/feed.xml
+          plugin_rss_source: https://unclesp1d3r.github.io/index.xml
