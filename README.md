@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UncleSp1d3r</h1>
-- 🌱 I’m currently learning **Rust, Go, and Rails**
+- 🌱 I’m currently learning **Rust, Go, .Net Core, and Rails**
 
 - 📝 I regularly write articles on [https://unclesp1d3r.github.io](https://unclesp1d3r.github.io)
 
